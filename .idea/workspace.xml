@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f0c1bad-bf83-4399-979e-57e10f1b8660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../cheatsheet.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/OtherPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complex/worker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/Dockerrun.aws.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/OtherPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/client/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/nginx/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/server/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/server/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/worker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/worker/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/worker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/worker/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../complexII/worker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/client-cluster-ip-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/client-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/database-persistent-volume.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/ingress-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/postgres-cluster-ip-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/postgres-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/redis-cluster-ip-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/redis-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/server-cluster-ip-service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/server-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/worker-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flow/frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redis-image/DockerFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simplek8s/client-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simplek8s/client-node-port.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simplek8s/client-pod.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simpleweb/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simpleweb/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simpleweb/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../visits/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../visits/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../visits/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../visits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~$eatsheet.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~WRL0005.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~WRL0986.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/asciidoc/index.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/MsscBreweryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/domain/Beer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/BeerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/BeerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/v2/BeerServiceV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/services/v2/BeerServiceV2Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/controller/BeerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/controller/MvcExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/controller/v2/BeerControllerV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/mappers/BeerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/mappers/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/mappers/DateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/model/BeerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/model/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerDtoV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerStyleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/test/java/guru/springframework/msscbrewery/MsscBreweryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/brewery-rest-docs-restdocs-impl/src/test/java/guru/springframework/msscbrewery/web/controller/BeerControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/SfgJmsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/config/JmsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/config/TaskConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/listener/HelloMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/model/HelloWorldMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/java/guru/springframework/sfgjms/sender/HelloSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/sfg-jms-spring-message-type/src/test/java/guru/springframework/sfgjms/SfgJmsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/Spring5MongoRecipeAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/bootstrap/RecipeBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/commands/CategoryCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/commands/IngredientCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/commands/NotesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/commands/RecipeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/commands/UnitOfMeasureCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/controllers/ControllerExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/controllers/ImageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/controllers/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/controllers/IngredientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/controllers/RecipeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/CategoryCommandToCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/CategoryToCategoryCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/IngredientCommandToIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/IngredientToIngredientCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/NotesCommandToNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/NotesToNotesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/RecipeCommandToRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/RecipeToRecipeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/UnitOfMeasureCommandToUnitOfMeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/converters/UnitOfMeasureToUnitOfMeasureCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/domain/UnitOfMeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/exceptions/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/repositories/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/repositories/RecipeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/repositories/UnitOfMeasureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/ImageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/ImageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/IngredientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/IngredientServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/RecipeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/RecipeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/UnitOfMeasureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/java/guru/springframework/services/UnitOfMeasureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/messages_en_GB.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/static/images/guacamole400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/static/images/guacamole400x400WithX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/static/images/tacos400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/400error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/404error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/imageuploadform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/ingredient/ingredientform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/ingredient/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/ingredient/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/recipeform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/main/resources/templates/recipe/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/Spring5RecipeAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/controllers/ImageControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/controllers/IndexControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/controllers/IngredientControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/controllers/RecipeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/CategoryCommandToCategoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/CategoryToCategoryCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/IngredientCommandToIngredientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/IngredientToIngredientCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/NotesCommandToNotesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/NotesToNotesCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/RecipeCommandToRecipeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/RecipeToRecipeCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/UnitOfMeasureCommandToUnitOfMeasureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/converters/UnitOfMeasureToUnitOfMeasureCommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/domain/CategoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/repositories/UnitOfMeasureRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/services/ImageServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/services/IngredientServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/services/RecipeServiceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/services/RecipeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-reactive-mongo-recipe-app/src/test/java/guru/springframework/services/UnitOfMeasureServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/Spring5WebfluxRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/bootstrap/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/controllers/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/controllers/VendorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/domain/Vendor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/repositories/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/java/guru/springframework/spring5webfluxrest/repositories/VendorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/test/java/guru/springframework/spring5webfluxrest/Spring5WebfluxRestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/test/java/guru/springframework/spring5webfluxrest/controllers/CategoryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/SpringFramework5_beg_2_guru/spring5-webflux-rest/src/test/java/guru/springframework/spring5webfluxrest/controllers/VendorControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1aDjPERrunQFVJji9TRhTKOGGEB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f0c1bad-bf83-4399-979e-57e10f1b8660" name="Default Changelist" comment="" />
+      <created>1586277032590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586277032590</updated>
+      <workItem from="1586277034089" duration="10189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="998" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586281499207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="310" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586281499207" />
+  </component>
+</project>
