@@ -2,13 +2,13 @@ docker build -t dotadro/multi-client:latest -t dotadro/multi-client:$GIT_SHA -f 
 docker build -t dotadro/multi-server:latest -t dotadro/multi-server:$GIT_SHA -f ./server/Dockerfile ./server
 docker build -t dotadro/multi-worker:latest -t dotadro/multi-worker:$GIT_SHA -f ./worker/Dockerfile ./worker
 
-docker push dotadro/multi.client:latest
-docker push dotadro/multi.server:latest
-docker push dotadro/multi.worker:latest
+docker push dotadro/multi-client:latest
+docker push dotadro/multi-server:latest
+docker push dotadro/multi-worker:latest
 
-docker push dotadro/multi.client:$GIT_SHA
-docker push dotadro/multi.server:$GIT_SHA
-docker push dotadro/multi.worker:$GIT_SHA
+docker push dotadro/multi-client:$GIT_SHA
+docker push dotadro/multi-server:$GIT_SHA
+docker push dotadro/multi-worker:$GIT_SHA
 
 kubectl apply -f k8s
 kubectl set image deployments/client-deployment client=dotadro/multi-client:$GIT_SHA
