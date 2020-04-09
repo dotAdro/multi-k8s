@@ -11,6 +11,6 @@ docker push dotadro/multi.server:$GIT_SHA
 docker push dotadro/multi.worker:$GIT_SHA
 
 kubectl apply -f k8s
-kubectl set image deployments/server-deployment server=dotadro/multi-server:$GIT_SHA
 kubectl set image deployments/client-deployment client=dotadro/multi-client:$GIT_SHA
+kubectl set image deployments/server-deployment server=dotadro/multi-server:$GIT_SHA
 kubectl set image deployments/worker-deployment worker=dotadro/multi-worker:$GIT_SHA

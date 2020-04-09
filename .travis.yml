@@ -18,7 +18,7 @@ before_install:
   - docker build -t dotadro/react-test -f ./client/Dockerfile.dev ./client
 
 script:
-  - docker run -e CI=true dotadro/docker-react npm run test
+  - docker run -e CI=true dotadro/react-test npm run test
 
 deploy:
   provider: script
